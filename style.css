@@ -1,0 +1,16 @@
+
+/* For mobile devices */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+}
+
+/* For desktop devices */
+@media (min-width: 769px) {
+    body {
+        padding: 20px;
+    }
+
+    
+}
